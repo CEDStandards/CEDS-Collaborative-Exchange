@@ -3,7 +3,7 @@
 # CEDS Collaborative Exchange
 Welcome to the CEDS Open Source Community!  
 
-The Common Education Data Standards (CEDS) Collaborative Exchange is a repository of code developed by the Maintainers  of the CEDS open source community. The CEDS Collaborative Exchange repository interacts with the CEDS Integrated Data Store and the CEDS Elements. All resources in the open source community are considered free and open source.
+The Common Education Data Standards (CEDS) Collaborative Exchange is a repository of code developed by the Maintainers of the CEDS open source community. The CEDS Collaborative Exchange repository interacts with the CEDS Integrated Data Store and the CEDS Elements. All resources in the open source community are considered free and open source.
 
 **Getting Started**
 Each Contributor should provide a README file which introduces and explains the code and how to implement it.  At a minimum, the Contributor will provide information about installation, testing, deployment, and their contact information.  Refer to the README_TEMPLATE.md file at the root of this repository. 
@@ -17,4 +17,4 @@ The CEDS Collaborative Exchange will not maintain versioning for the whole repos
 2.	The version of the CEDS IDS and/or DW this resource is compatible with. This will allow stakeholders to see which resources should work with the version of CEDS they are on currently and which may be outdated and require additional work to bring them to the current version of CEDS.
 
 **License**
-All contributions to this repository are considered licensed under the Apache License 2.0.
+All contributions to this repository are considered licensed under the [Apache License 2.0] (https://github.com/CEDStandards/CEDS-Collaborative-Exchange/blob/master/LICENSE).
