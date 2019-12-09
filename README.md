@@ -9,7 +9,7 @@ The Common Education Data Standards (CEDS) Collaborative Exchange is a repositor
 Each contributor should provide a README file which introduces and explains the code and how to implement it.  At a minimum, the contributor will provide information about installation, testing, deployment, and their contact information.  Refer to the README_TEMPLATE.md file at the root of this repository. 
 
 ## Contributing
-Please read [Contributing.md](https://github.com/CEDStandards/CEDS-Collaborative-Exchange/blob/master/Contributing.md) for details on the process for submitting use cases and pull requests.
+Please read [Contributing.md](https://github.com/CEDStandards/CEDS-Collaborative-Exchange/blob/master/Contributing.md) for details on the process for submitting pull requests.
 
 ## Versioning
 The CEDS Collaborative Exchange will not maintain versioning for the whole repository. It is recommended that users who contribute resources to this repository provide a README file and include versioning in that file. For consistency and to assist stakeholders in the use of the resource, staying consistent with the versioning guidelines expressed in the other OSC repositories is highly encouraged. Two different version numbers should be supplied in the README file:
