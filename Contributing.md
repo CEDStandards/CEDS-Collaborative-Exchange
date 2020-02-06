@@ -1,5 +1,5 @@
 # Contributing
-Contributions are welcome from the community. For questions and discussion threads see the [CEDS Community of Practice website]( https://ceds.grads360.org/#program).
+Contributions are welcome from the community. The only requirements for these contributions are that the software interacts with the CEDS Integration Data Store and/or the CEDS Elements repositories and are offered as free and open source.For questions and discussion threads see the [CEDS Community of Practice website]( https://ceds.grads360.org/#program).
 
 Files and code are provided AS-IS.  Contact the original developer for questions (contact information should be listed in all README files).
 
