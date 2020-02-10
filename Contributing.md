@@ -1,5 +1,5 @@
 # Contributing
-Contributions are welcome from the community. The only requirements for these contributions are that the software interacts with the CEDS Integration Data Store and/or the CEDS Elements repositories and are offered as free and open source.For questions and discussion threads see the [CEDS Community of Practice website]( https://ceds.grads360.org/#program).
+Contributions are welcome from the community. The only requirements for these contributions are that the software integrates with the CEDS Integration Data Store and/or the CEDS Elements repositories and are offered as free and open source under [Apache 2.0 License](https://github.com/CEDStandards/CEDS-Collaborative-Exchange/blob/master/LICENSE) license (or other open and free license if agreed by the community.) For questions and discussion threads see the [CEDS Community of Practice website]( https://ceds.grads360.org/#program).
 
 Files and code are provided AS-IS.  Contact the original developer for questions (contact information should be listed in all README files).
 
@@ -8,3 +8,6 @@ If you have direct contributions you would like considered for incorporation int
 
 ## Folder Structure 
 Refer to [kriasoft's folder structure best practices](https://github.com/kriasoft/Folder-Structure-Conventions) for recommendations on how to structure the files for your submission. 
+
+## License
+This project is licensed under the [Apache 2.0 License](https://github.com/CEDStandards/CEDS-Collaborative-Exchange/blob/master/LICENSE) - see the LICENSE file for details.
